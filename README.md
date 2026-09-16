@@ -38,8 +38,8 @@ Software QA Engineer | Manual Testing | API Testing | SQL | Java | Selenium | Te
 </a> -->
 
 <!-- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
-</a>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+</a> -->
 
 <a href="https://testng.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" alt="testng" width="40" height="40"/>
