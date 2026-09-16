@@ -33,11 +33,11 @@ Software QA Engineer | Manual Testing | API Testing | SQL | Java | Selenium | Te
 
 <p align="left">
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.java.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+</a> -->
 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+<!-- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 </a>
 
